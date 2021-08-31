@@ -7,4 +7,8 @@ asdfasdfdf
 asdfasdfsad
 f
 
+<<<<<<< HEAD
 hai
+=======
+asdf
+>>>>>>> 04f210ce9df15180651c518711b2f5a3bb447add
